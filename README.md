@@ -30,6 +30,7 @@ CornerShot is locally signed and not notarized yet, so macOS may block the first
 - Take full screen, selected window, or selected area screenshots.
 - Open clipboard history from a corner.
 - Drag and drop the screenshot preview after capture.
+- Drag and drop clipboard history items into other apps or Finder.
 - Search clipboard history by keyword.
 - Search text inside copied images after local OCR finishes. OCR-ready images show a blue dot.
 - Detect existing macOS Hot Corner conflicts.
@@ -82,6 +83,7 @@ CornerShot은 macOS 메뉴바 앱입니다. 화면 모서리에 마우스를 가
 - 전체 화면, 선택 창, 선택 영역 스크린샷
 - 모서리에서 클립보드 히스토리 열기
 - 스크린샷 촬영 후 미리보기 이미지 드래그앤드롭
+- 클립보드 히스토리 항목을 다른 앱이나 Finder로 드래그앤드롭
 - 클립보드 히스토리 키워드 검색
 - 로컬 OCR 완료 후 이미지 속 텍스트 검색. OCR된 이미지는 파란색 점으로 표시
 - macOS 기본 핫코너 충돌 감지
