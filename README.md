@@ -4,6 +4,8 @@ Hot corners for screenshots and clipboard history on macOS.
 
 CornerShot is a small menu bar app that lets you trigger useful actions by moving your mouse to a screen corner.
 
+![CornerShot settings window](docs/cornershot-settings.png)
+
 ## Download
 
 Download the latest zip from [Releases](https://github.com/rlaehrb1/CornerShot/releases).
